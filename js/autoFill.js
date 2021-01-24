@@ -17,6 +17,7 @@ javascript: (function () {
     f0['u_addr'].value = "Mo Dao, Que Vo, Bac Ninh";
     f0['u_motive'].value ="1";
     f0['u_purpose'].value ="1";
+    f0['u_sid'].value = "123456789"
     document.getElementById('u_sex1').checked ="checked";
     document.getElementById('u_sex0').checked ="";
   })();
